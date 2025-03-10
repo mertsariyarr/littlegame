@@ -16,3 +16,5 @@ PLAYER_SPEED = 200 # define player's speed
 SHOT_RADIUS = 5 # define shoot
 
 PLAYER_SHOOT_SPEED = 500
+
+PLAYER_SHOOT_COOLDOWN = 0.3
